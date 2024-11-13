@@ -1,0 +1,14 @@
+streamlit
+nltk
+pdfplumber
+reportlab
+PyPDF2
+openpyxl
+pandas
+scikit-learn
+reportlab
+streamlit>=1.29.0
+nltk>=3.8.1
+reportlab>=4.0.8
+pdfplumber>=0.10.3
+PyPDF2>=3.0.0
